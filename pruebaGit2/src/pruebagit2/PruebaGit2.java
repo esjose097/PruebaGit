@@ -7,7 +7,7 @@ package pruebagit2;
 
 /**
  *
- * @author user
+ * @author Casal
  */
 public class PruebaGit2 {
 
@@ -15,7 +15,7 @@ public class PruebaGit2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hi how are u?");
     }
     
 }
